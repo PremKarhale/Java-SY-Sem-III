@@ -1,3 +1,4 @@
+//calculating area by using constructur 
 package constructor;
 
 public class area {
