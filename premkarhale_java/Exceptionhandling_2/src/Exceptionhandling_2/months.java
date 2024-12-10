@@ -23,10 +23,9 @@ public class months {
 		try {
 			months obj=new months();
 			obj.MONTHSINYEAR();
-	
-		}
+			}
 		catch(Exception e) {
-			System.out.println("error type is:"+e);
+			System.out.println("error type is :"+e);
 			
 		}
 		finally {

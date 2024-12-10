@@ -77,7 +77,7 @@ class Publication {
  int copies;
  Scanner input = new Scanner(System.in);
  Publication() {}
- Publication(String title, double price, int copies) { // Constructor
+   Publication(String title, double price, int copies) { // Constructor
  this.title = title;
  this.price = price;
  this.copies = copies;
