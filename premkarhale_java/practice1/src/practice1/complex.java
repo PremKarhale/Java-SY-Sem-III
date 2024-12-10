@@ -57,10 +57,6 @@ public class complex {
 	    result.add(c1, c2);
 	    result.subtract(c1, c2);
 	    result.multiplicaton(c1, c2);
-	    
-	    
-		
-		
 
 	}
 
